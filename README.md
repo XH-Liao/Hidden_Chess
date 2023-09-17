@@ -1,5 +1,9 @@
 # Hidden_Chess
 Game-暗棋
+
+![暗棋](https://github.com/XH-Liao/Hidden_Chess/assets/100434449/a9285db6-0112-4673-8a41-cc3a2b205442)
+
+
 遊玩流程
 1. 開啟遊戲並按開始
 2. 抽牌決定先後順序
